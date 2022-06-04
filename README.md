@@ -1,1 +1,1 @@
-# AI_Ruds-201b222
+# AI_Ruds numgame-201b222
