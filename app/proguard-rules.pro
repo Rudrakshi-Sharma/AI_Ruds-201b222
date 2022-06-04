@@ -1,4 +1,4 @@
-# Add Project Specific ProGuard rules here.
+# Add Project Specific ProGuard Rules here.
 # You can control the set of applied configuration files using the
 # proguardFiles setting in build.gradle.
 #
